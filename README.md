@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript/C,C++,C#,CSS/HTML/Python
 - 💞️ I’m looking to collaborate on no one
-- 😄 Pronouns: ...
+- 😄 Pronouns: KJD
 - ⚡ Fun fact: Im 12 years old and im vietnamese
 
 <!---
